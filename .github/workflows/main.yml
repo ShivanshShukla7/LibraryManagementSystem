@@ -1,0 +1,10 @@
+LibraryManagementSystem/
+│
+├── .github/
+│   └── workflows/
+│       └── ci-cd.yml
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
